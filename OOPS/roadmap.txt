@@ -1,0 +1,9 @@
+Object Oriented Programming topics:
+-----------------------------
+Definition
+Identifying objects = behaviour(functionality) + attributes/properties/state
+Procedural Programming (functions) VS OOPS (objects)
+Class = blueprint/skeleton of an object
+Pillars of OOPS: 
+  data abstraction (interfaces and abstract classes)
+  
